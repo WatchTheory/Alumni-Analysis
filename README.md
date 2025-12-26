@@ -3,14 +3,15 @@ Your task is to analyze the alumni dataset using Pandas to extract insights, per
 
 
 ## Objective 
-- To analyze the alumni dataset using Pandas to extract insights, perform data cleaning, and generate summary statistics,
+- To analyze the alumni dataset using Pandas to extract insights, perform data cleaning, and generate summary statistics
 
-## Data Dictionary 
 
 
 
 
 ## Summary 
+The data suggest that more `Males` will purse College Diploma, while only a faction of `females` will purse a College Diploma. However `females` have been showing a slight decrease in `Number of Gradutes per Year` suggest that females have taken a different and got married and have had kids. 
+
 
 ## Key Visualization 
 
